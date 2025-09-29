@@ -35,8 +35,8 @@
 ## 🎓 Educación y Certificaciones
 
 - **Ingeniería de Sistemas** (Pensum completado, título en trámite) - Fundación de Educación Superior San José, Bogotá.
-- **Certificaciones Cisco Networking Academy**: **CyberOps Associate** (Defensa), **Ethical Hacker** (Ofensiva), Network Security, Analista Junior en Ciberseguridad.
-- **Cursos Adicionales**: Python, Linux, Inteligencia Artificial Intermedio, AWS Cloud Practitioner Essentials (Cloud Security Foundation).
+- **Certificaciones Cisco Networking Academy**: <a href="https://www.credly.com/badges/f0830198-a026-4c31-bdec-3531b3f7656d">**CyberOps Associate**</a> (Defensa), <a href="https://www.credly.com/badges/707f5528-c466-4c30-9aa7-6f8d963a69fb">**Ethical Hacker**</a> (Ofensiva), <a href="https://www.credly.com/badges/618e0ccf-c840-4772-be99-b81fe4ea3e8c">Network Security</a>, <a href="https://www.credly.com/badges/06537142-00e9-4fc4-b007-51393e05fddc">Analista Junior en Ciberseguridad</a>.
+- **Cursos Adicionales**: <a href="https://www.credly.com/badges/87eb4418-ff38-4594-ab05-1a8771387852">Python</a>, <a href="https://www.credly.com/badges/0139cfa4-a137-4129-b33b-b37ee59a6dba">Linux</a>, Inteligencia Artificial Intermedio, AWS Cloud Practitioner Essentials (Cloud Security Foundation).
 
 <br>
 
@@ -66,7 +66,9 @@
 ### <picture> <img src = "https://cdn-icons-png.flaticon.com/512/8207/8207452.png" width = 20px>  </picture> Lenguajes de Programación & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+<a href="https://www.credly.com/badges/95a92036-28d9-478d-bb31-a23794c42683">
+  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+</a>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas Operativos
 
@@ -78,4 +80,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+<a href="https://github.com/juanciberseg">
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+</a>
