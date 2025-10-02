@@ -26,7 +26,7 @@
 | :--- | :--- | :--- | :--- |
 | **Cybersecurity Incident Analysis: The 5-Tuple Containment** | Forensic investigation of a compromised host to determine the complete Kill Chain (root access, persistence via backdoor, and data exfiltration via FTP). The project culminates in the containment of the threat by blocking the unique 5-Tuple of the malicious connection. | `Security Onion (Sguil, Kibana, Zeek Logs)`, `Wireshark`, `Linux` | [Repository](https://github.com/juanciberseg/Incident-Analysis-5Tuple) |
 | **Snort & Iptables Firewall Containment** | Comprehensive network defense lab using Snort IDS to detect a malicious external download and subsequent granular containment using Linux iptables on the perimeter router. This demonstrated skills in real-time threat detection and mitigation based on network telemetry. | `Snort (IDS)`, `iptables(Linux Firewall)`, `Mininet`, `TCP/HTTP Protocol Analysis`, `Wget` | [Repository](https://github.com/juanciberseg/Snort-Firewall-Containment) |
-| **[Nombre de tu Proyecto 3]** | [Ej: Configuración y análisis de tráfico de red con Snort/Suricata en Security Onion.] | `Snort`, `Security Onion`, `Wireshark` | [Repositorio](URL_DEL_PROYECTO_3) |
+| **Malicious IP Blocker Automator** | Python script for automated containment, reading a list of malicious IPs (threat feed) and blocking them using Linux UFW, demonstrating SOC efficiency. | `Python`, `UFW (Uncomplicated Firewall)`, `Subprocess Library`, `Incident Response (IR)` | [Repository](https://github.com/juanciberseg/malicious-ip-blocker) |
 
 <br>
 
