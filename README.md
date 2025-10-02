@@ -25,7 +25,7 @@
 | Project Name | Brief Description | Key Technologies | Repo Link |
 | :--- | :--- | :--- | :--- |
 | **Cybersecurity Incident Analysis: The 5-Tuple Containment** | Forensic investigation of a compromised host to determine the complete Kill Chain (root access, persistence via backdoor, and data exfiltration via FTP). The project culminates in the containment of the threat by blocking the unique 5-Tuple of the malicious connection. | `Security Onion (Sguil, Kibana, Zeek Logs)`, `Wireshark`, `Linux` | [Repository](https://github.com/juanciberseg/Incident-Analysis-5Tuple) |
-| **[Nombre de tu Proyecto 2]** | [Ej: Script en Python para análisis de cabeceras HTTP y detección de vulnerabilidades básicas.] | `Python`, `Requests`, `OWASP` | [Repositorio](URL_DEL_PROYECTO_2) |
+| **Snort & Iptables Firewall Containment** | Comprehensive network defense lab using Snort IDS to detect a malicious external download and subsequent granular containment using Linux iptables on the perimeter router. This demonstrated skills in real-time threat detection and mitigation based on network telemetry. | `Snort (IDS)`, `iptables(Linux Firewall)`, `Mininet`, `TCP/HTTP Protocol Analysis`, `Wget` | [Repository](https://github.com/juanciberseg/Snort-Firewall-Containment) |
 | **[Nombre de tu Proyecto 3]** | [Ej: Configuración y análisis de tráfico de red con Snort/Suricata en Security Onion.] | `Snort`, `Security Onion`, `Wireshark` | [Repositorio](URL_DEL_PROYECTO_3) |
 
 <br>
