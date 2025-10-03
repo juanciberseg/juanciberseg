@@ -12,7 +12,7 @@
 - :trophy: Security certified with **CyberOps Associate** and **Ethical Hacking**.
 - :technologist: **Specialized in** vulnerability analysis, security monitoring, and incident response.
 - :email: Contact me via **email** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Juan.ciberseg&amp;color=EA4335&amp;style=flat-square)](mailto:juan.ciberseg@gmail.com) or **LinkedIn** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-torres-martinez-8940b0368/).
-- :nerd_face: My philosophy: **"Cybersecurity is not a destination, but a journey"**
+- :nerd_face: My philosophy: **"risk reduction and system resilience."**
 
 <br clear="right"/> 
 <br>
