@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Hello! 👋, I'm Juan David Torres Martínez</h1></summary>
   </ul>
 </div>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> 🧑‍💻 About Me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -12,7 +12,7 @@
 - :trophy: Security certified with **CyberOps Associate** and **Ethical Hacking**.
 - :technologist: **Specialized in** vulnerability analysis, security monitoring, and incident response.
 - :email: Contact me via **email** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Juan.ciberseg&amp;color=EA4335&amp;style=flat-square)](mailto:juan.ciberseg@gmail.com) or **LinkedIn** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-torres-martinez-8940b0368/).
-- :nerd_face: My philosophy: **"risk reduction and system resilience."**
+- :nerd_face: My philosophy: **"Security is built through visibility, detection, and continuous validation."**
 
 <br clear="right"/> 
 <br>
@@ -24,7 +24,7 @@
 > 
 | Project Name | Brief Description | Key Technologies | Repo Link |
 | :--- | :--- | :--- | :--- |
-| **Cybersecurity Engineering Journey: 30 Labs Arsenal** | Multi-tool automated suite designed to analyze and recreate defensive security mechanisms from scratch. Lab 1 features a Volatile Memory (RAM) forensic scanner. | Python (Psutil, OS), Linux Kernel Internals, Memory Forensics | [Repository](https://github.com/juanciberseg/Cybersecurity-Arsenal-30Labs) |
+| **Cybersecurity Engineering Labs: 30 Labs** | A collection of Python-based cybersecurity labs focused on recreating defensive security mechanisms and Linux process monitoring techniques from scratch. Basic Linux process monitoring tool for detecting suspicious execution patterns and missing binaries. | Python (Psutil, OS), Linux Kernel Internals, Memory Forensics | [Repository](https://github.com/juanciberseg/Cybersecurity-Engineering-Labs) |
 | **Cybersecurity Incident Analysis: The 5-Tuple Containment** | Forensic investigation of a compromised host to determine the complete Kill Chain (root access, persistence via backdoor, and data exfiltration via FTP). The project culminates in the containment of the threat by blocking the unique 5-Tuple of the malicious connection. | `Security Onion (Sguil, Kibana, Zeek Logs)`, `Wireshark`, `Linux` | [Repository](https://github.com/juanciberseg/Incident-Analysis-5Tuple) |
 | **Snort & Iptables Firewall Containment** | Comprehensive network defense lab using Snort IDS to detect a malicious external download and subsequent granular containment using Linux iptables on the perimeter router. This demonstrated skills in real-time threat detection and mitigation based on network telemetry. | `Snort (IDS)`, `iptables(Linux Firewall)`, `Mininet`, `TCP/HTTP Protocol Analysis`, `Wget` | [Repository](https://github.com/juanciberseg/Snort-Firewall-Containment) |
 | **Malicious IP Blocker Automator** | Python script for automated containment, reading a list of malicious IPs (threat feed) and blocking them using Linux UFW, demonstrating SOC efficiency. | `Python`, `UFW (Uncomplicated Firewall)`, `Subprocess Library`, `Incident Response (IR)` | [Repository](https://github.com/juanciberseg/malicious-ip-blocker) |
@@ -50,7 +50,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Cybersecurity & Tools
 
 #### 🔍 Monitoring, Detection, and Log Analysis
-- **SIEM/ELK Stack**: Experience with **Elasticsearch, Logstash, Kibana (Kibana)**.
+- **SIEM/ELK Stack**: Experience with **Elasticsearch, Logstash, Kibana**.
 - **IDS/IPS**: Intrusion Detection Systems with **Snort** and **Suricata**.
 - **Traffic Analysis**: Deep knowledge of **Wireshark** and tools like **Sguil**.
 
