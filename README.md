@@ -37,7 +37,6 @@
 
 ## 🎓 Education and Certifications
 
-- **Additional Courses**: <a href="https://www.credly.com/badges/87eb4418-ff38-4594-ab05-1a8771387852">Python</a>, <a href= "https://www.credly.com/badges/95a92036-28d9-478d-bb31-a23794c42683">HTML</a>, Intermediate Artificial Intelligence, AWS Cloud Practitioner Essentials (Cloud Security Foundation).
 - **Systems Engineering** (Curriculum Completed, Degree Pending) - Fundación de Educación Superior San José, Bogotá.
 - **Cisco Networking Academy Certifications**: <a href="https://www.credly.com/badges/f0830198-a026-4c31-bdec-3531b3f7656d">**CyberOps Associate**</a> (Defense), <a href="https://www.credly.com/badges/707f5528-c466-4c30-9aa7-6f8d963a69fb">**Ethical Hacker**</a> (Offense), <a href="https://www.credly.com/badges/618e0ccf-c840-4772-be99-b81fe4ea3e8c">Network Security</a>,  <a href="https://www.credly.com/badges/344ee901-3178-4486-a675-92f4ce5508d9">Linux Essentials</a>, <a href="https://www.credly.com/badges/06537142-00e9-4fc4-b007-51393e05fddc">Junior Cybersecurity Analyst</a>.
 - **Additional Courses**: <a href="https://www.credly.com/badges/87eb4418-ff38-4594-ab05-1a8771387852">Python</a>, <a href= "https://www.credly.com/badges/95a92036-28d9-478d-bb31-a23794c42683">HTML</a>, Intermediate Artificial Intelligence, AWS Cloud Practitioner Essentials (Cloud Security Foundation).
